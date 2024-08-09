@@ -1,0 +1,23 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse files
+.metadata
+.classpath
+.project
+.settings/
+bin/
+
+# Ignore target directory (Maven)
+target/
